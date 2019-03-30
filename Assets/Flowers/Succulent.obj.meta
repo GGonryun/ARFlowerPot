@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 2310fffbec8e9114ba9a23172f04b378
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: succulent_euphorbia
+    100002: //RootNode
+    400000: succulent_euphorbia
+    400002: //RootNode
+    2100000: succulent_euphorbiaMat
+    2100002: succulent_euphorbia_mtl_1
+    2100004: succulent_euphorbia_mtl_4
+    2100006: succulent_euphorbia_mtl_7
+    2100008: succulent_euphorbia_mtl_2
+    2100010: succulent_euphorbia_mtl_28
+    2100012: succulent_euphorbia_mtl_40
+    2100014: succulent_euphorbia_mtl_26
+    2100016: succulent_euphorbia_mtl_20
+    2100018: succulent_euphorbia_mtl_8
+    2100020: succulent_euphorbia_mtl_64
+    2100022: succulent_euphorbia_mtl_65
+    2100024: succulent_euphorbia_mtl_18
+    2100026: succulent_euphorbia_mtl_13
+    2100028: succulent_euphorbia_mtl_22
+    2100030: succulent_euphorbia_mtl_23
+    2100032: succulent_euphorbia_mtl_25
+    2100034: succulent_euphorbia_mtl_19
+    2100036: succulent_euphorbia_mtl_5
+    2100038: succulent_euphorbia_mtl_9
+    2100040: succulent_euphorbia_mtl_16
+    2100042: succulent_euphorbia_mtl_10
+    2100044: succulent_euphorbia_mtl_15
+    2100046: succulent_euphorbia_mtl_6
+    2100048: succulent_euphorbia_mtl_21
+    2100050: succulent_euphorbia_mtl_11
+    2100052: succulent_euphorbia_mtl_14
+    2100054: succulent_euphorbia_mtl_17
+    2100056: succulent_euphorbia_mtl_3
+    2100058: succulent_euphorbia_mtl_12
+    2100060: succulent_euphorbia_mtl_24
+    2100062: succulent_euphorbia_mtl_54
+    2100064: succulent_euphorbia_mtl_56
+    2100066: succulent_euphorbia_mtl_50
+    2100068: succulent_euphorbia_mtl_48
+    2100070: succulent_euphorbia_mtl_43
+    2100072: succulent_euphorbia_mtl_55
+    2100074: succulent_euphorbia_mtl_46
+    2100076: succulent_euphorbia_mtl_45
+    2100078: succulent_euphorbia_mtl_53
+    2100080: succulent_euphorbia_mtl_57
+    2100082: succulent_euphorbia_mtl_51
+    2100084: succulent_euphorbia_mtl_60
+    2100086: succulent_euphorbia_mtl_41
+    2100088: succulent_euphorbia_mtl_42
+    2100090: succulent_euphorbia_mtl_49
+    2100092: succulent_euphorbia_mtl_52
+    2100094: succulent_euphorbia_mtl_58
+    2100096: succulent_euphorbia_mtl_59
+    2100098: succulent_euphorbia_mtl_31
+    2100100: succulent_euphorbia_mtl_30
+    2100102: succulent_euphorbia_mtl_27
+    2100104: succulent_euphorbia_mtl_29
+    2100106: succulent_euphorbia_mtl_34
+    2100108: succulent_euphorbia_mtl_33
+    2100110: succulent_euphorbia_mtl_32
+    2100112: succulent_euphorbia_mtl_35
+    2100114: succulent_euphorbia_mtl_36
+    2100116: succulent_euphorbia_mtl_37
+    2100118: succulent_euphorbia_mtl_39
+    2100120: succulent_euphorbia_mtl_38
+    2100122: succulent_euphorbia_mtl_44
+    2100124: succulent_euphorbia_mtl_47
+    2100126: succulent_euphorbia_mtl_61
+    2100128: succulent_euphorbia_mtl_62
+    2100130: succulent_euphorbia_mtl_63
+    2300000: succulent_euphorbia
+    3300000: succulent_euphorbia
+    4300000: succulent_euphorbia
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: succulent_euphorbiaMat
+    second: {fileID: 2100000, guid: 6f5768c1272323b4ea842d5e1172264a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
