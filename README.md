@@ -1,5 +1,5 @@
 # ARFlowerPot
-You can find the (presentation here)[https://github.com/GGonryun/ARFlowerPot/blob/master/Grow%20Up.pdf].
+You can find my group's [presentation here](https://github.com/GGonryun/ARFlowerPot/blob/master/Grow%20Up.pdf).
 
 ## Usage
 This app is my first step into Augmented Reality.
